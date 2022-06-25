@@ -1,16 +1,16 @@
-# Personal Portfolio
+# Password Generator
 ---
-Inside the master branch I have all the code inside the index file on how I made my portfolio. It also includes the assets folder which has my css file and my images.
+Inside the master branch I have all the code from the index file, to the css and javascript sheets. These contain all the working code. 
 ---
-I included the first week homework as one of my works done. I also included two homework videos I did a few years back for my freshman year of high school. Those were both as my media showcase.
+I was running into problems trying to set up a promt for when you pressed the button. I figured out how to add a button on the webpage to pick and choose if you would like things in the password but that was one of the things that really had me struggling.
 ---
-I decided to go with a teal to show my favorite color.
+The password generator works and can give you passwords from 8-128 characters contain uppercase, lowercase and symbols.
 ---
-All links are working and send you to the proper place. All nav links send you down to the right spot as well. I added contacts at the bottom as well for my github and my email.
+Password generator buttons works and everything was succesful.
 ---
 
 ---
-[Portfolio](https://lizandro21.github.io/hw02/)
+[Portfolio](https://lizandro21.github.io/hw03/)
 
 This is the link to the working website.
 ---
