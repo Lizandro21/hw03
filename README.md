@@ -10,7 +10,7 @@ Password generator buttons works and everything was succesful.
 ---
 
 ---
-[Portfolio](https://lizandro21.github.io/hw03/)
+[Password Generator](https://lizandro21.github.io/hw03/)
 
 This is the link to the working website.
 ---
